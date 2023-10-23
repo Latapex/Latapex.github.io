@@ -4,12 +4,15 @@
 
 body{
     font-family: 'Belanosima', sans-serif;
-font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', sans-serif;
     background-image: url(../imgs/foto.jpg);
     background-repeat: no-repeat;
     background-size: 100% ;
-    background-color: rgb(184, 184, 184);
+    background-color: black;
+
 }
+
+
 
 div {
     text-align: center;
@@ -81,7 +84,6 @@ p {
 }
 
 .hist{
-    background-color: black;
     color: white;
     text-align: left;
 }
